@@ -1,3 +1,5 @@
-# 1: Leetcode Playground
+<h1 style="color:yellow">Leetcode Playground</h1>
 
-Problems I have already solved in Leetcode
+```
+✨ Problems I have already solved in Leetcode ✨
+```
