@@ -1,4 +1,4 @@
-def UniqueNumbers2(arr):
+def UniqueNumbers(arr):
     dct = dict()
     for i in range(len(arr)):
         if arr[i] in dct:
